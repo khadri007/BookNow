@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>Create a new record for the BookNow table</hint>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Reservations</mobile_title>
+        <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_bn_reservation</name>
-        <order/>
+        <name>cmdb_ci_vm_zones</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_bn.reservation_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-25 15:27:06</sys_created_on>
+        <sys_created_on>2019-10-04 15:51:55</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>32a26237b32113009b67a13816a8dc86</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Reservations</sys_name>
+        <sys_id>a495e469dbd80010b377e04a48961940</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Record</sys_name>
         <sys_overrides/>
         <sys_package display_value="BookNow" source="x_bn">fa506eb3b32113009b67a13816a8dc58</sys_package>
         <sys_policy/>
         <sys_scope display_value="BookNow">fa506eb3b32113009b67a13816a8dc58</sys_scope>
-        <sys_update_name>sys_app_module_32a26237b32113009b67a13816a8dc86</sys_update_name>
+        <sys_update_name>sys_app_module_a495e469dbd80010b377e04a48961940</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-25 15:27:06</sys_updated_on>
+        <sys_updated_on>2019-10-04 15:55:14</sys_updated_on>
         <timeline_page/>
-        <title>Reservations</title>
+        <title>New Record</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
